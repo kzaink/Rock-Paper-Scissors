@@ -1,7 +1,7 @@
 # Stone-Paper-Scissors
 <br>
 Making stone paper Scissor Game By Using <ul>
-HTML
-CSS
-JS
+<li> HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
 </ul>
