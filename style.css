@@ -104,4 +104,13 @@ img {
   .choice:hover {
     background-color: #c4dad2;
   }
+
+  .score-board {
+    height: 2rem;
+    line-height: 2rem;
+    font-size: 1rem;
+  }
+  .score {
+    font-size: 20px;
+  }
 }
