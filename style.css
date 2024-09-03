@@ -81,7 +81,7 @@ img {
   cursor: pointer;
 }
 
-@media (max-width: 400px) {
+@media (min-width: 300px) and (max-width: 600px) {
   #msg {
     font-size: 0.8rem;
   }
